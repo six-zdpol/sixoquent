@@ -1,5 +1,5 @@
 {
-    "name": "bo-bremen/sixoquent",
+    "name": "six-zdpol/sixoquent",
     "license": "MIT",
     "description": "Model classes to connect sixcms with eloquent/laravel",
     "authors": [
