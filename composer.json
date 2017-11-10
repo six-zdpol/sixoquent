@@ -9,8 +9,8 @@
         }
     ],
     "autoload": {
-        "psr-0": {
-            "Sixoquent": "src/"
+        "psr-4": {
+            "Sixoquent\\": "src/"
         }
     },
     "require": {
